@@ -1,0 +1,1 @@
+# Defines multi-container configuration, linking the frontend and backend containers, and can also include other services like a database.
